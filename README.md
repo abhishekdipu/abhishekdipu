@@ -1,4 +1,4 @@
-I am a passionate IT professional with 4+ years of experience in Software development.
+I am a passionate IT professional with 5.7+ years of experience in Software development.
 
 I have solid work experience in the following technologies and tools.
 
