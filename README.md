@@ -1,5 +1,31 @@
 # 💫 About Me:
-Hello! I'm Abhishek Kumar, a passionate Software Development Engineer with over five years of experience in building scalable and efficient software solutions. I hold a B.Tech in Electronics and Communication Engineering from Techno India and have honed my skills across various technologies and platforms.<br><br>Professional Experience<br>PowerSchool (Aug 2021 - Present): As a Software Development Engineer 2, I lead backend teams and create serverless cloud infrastructures, resulting in significant performance improvements and cost reductions. I have also revamped UIs using React.js to enhance user experience and engagement.<br>Mindtree (Oct 2018 - Aug 2021): As a Senior Software Engineer, I optimized critical modules, developed innovative features during the COVID-19 pandemic, and improved database performance with AWS Lambda and EventBridge.<br>Skills and Technologies<br>Languages: JavaScript, TypeScript, Java, Python, C<br>Frameworks and Libraries: Node.js, React.js, Express.js, Redux<br>Cloud and DevOps: AWS (Lambda, API Gateway, DynamoDB, S3, EC2, ECS, ECR, Fargate, CloudFront, CloudWatch, IAM), Docker, AWS-CDK<br>Databases: MySQL, MongoDB, DynamoDB<br>Testing: Jest, Sinon, Enzyme, Selenium, Cypress<br>Automation and Monitoring: Splunk, Datadog, NewRelic<br>Certifications<br>React.js Certification - Pluralsight<br>Node.js + Express.js - Pluralsight<br>Web Development - Duke University<br>MongoDB M001 - MongoDB University<br>Achievements<br>Recognized with the "MVP" award at PowerSchool for substantial contributions to the MyPowerSchool product.<br>Earned multiple awards at Mindtree, including "A-Team," "MasterMind," and "Problem Solver," for consistently enhancing project outcomes.<br>I am passionate about leveraging technology to solve real-world problems and always eager to learn and adopt new technologies. In my spare time, I enjoy contributing to open-source projects and exploring the latest trends in software development.<br><br>Feel free to connect with me on LinkedIn or explore my projects on GitHub. Let's collaborate and create something amazing together!
+Hello! I'm Abhishek Kumar, a passionate Software Development Engineer with over six years of experience in building scalable and efficient software solutions. I hold a B.Tech in Electronics and Communication Engineering from Techno India College of West Bengal University Of Technology and have honed my skills across various technologies and platforms.
+<br><br>
+**Professional Experience**
+<br>
+**PowerSchool (Aug 2021 - Present):** As a Software Development Engineer 2, I lead backend teams and create serverless cloud infrastructures, resulting in significant performance improvements and cost reductions. I have also revamped UIs using React.js to enhance user experience and engagement.
+<br>
+**Mindtree (Oct 2018 - Aug 2021):** As a Senior Software Engineer, I optimized critical modules, developed innovative features during the COVID-19 pandemic, and improved database performance with AWS Lambda and EventBridge.
+<br>
+<br>
+**Skills and Technologies<br>Languages:** JavaScript, TypeScript, Java, Python, C<br>Frameworks and Libraries: Node.js, React.js, Express.js, Redux<br>Cloud and DevOps: AWS (Lambda, API Gateway, DynamoDB, S3, EC2, ECS, ECR, Fargate, CloudFront, CloudWatch, IAM), Docker, AWS-CDK<br>Databases: MySQL, MongoDB, DynamoDB<br>Testing: Jest, Sinon, Enzyme, Selenium, Cypress<br>Automation and Monitoring: Splunk, Datadog, NewRelic
+<br>
+<br>
+**Certifications :**
+<br>
+React.js Certification - Pluralsight<br>Node.js + Express.js - Pluralsight<br>Web Development - Duke University<br>MongoDB M001 - MongoDB University
+<br>
+<br>
+**Achievements :**<br>
+Recognized with the "MVP" award at PowerSchool for substantial contributions to the MyPowerSchool product.
+<br>
+Earned multiple awards at Mindtree, including "A-Team," "MasterMind," and "Problem Solver," for consistently enhancing project outcomes.
+<br>
+<br>
+I am passionate about leveraging technology to solve real-world problems and always eager to learn and adopt new technologies. In my spare time, I enjoy contributing to open-source projects and exploring the latest trends in software development.
+<br>
+<br>
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhishekdipu/) or explore my projects on GitHub. Let's collaborate and create something amazing together!
 
 
 ## 🌐 Socials:
