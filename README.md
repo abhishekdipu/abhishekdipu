@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Abhishek Kumar, a passionate Software Development Engineer with over six years of experience in building scalable and efficient software solutions. I hold a B.Tech in Electronics and Communication Engineering from Techno India College of West Bengal University Of Technology and have honed my skills across various technologies and platforms.
+Hello! I'm Abhishek Kumar, a passionate Software Development Engineer with over six years of experience in building scalable and efficient software solutions. I hold a B.Tech in Electronics and Communication Engineering from West Bengal University Of Technology (Techno India) and have honed my skills across various technologies and platforms.
 <br><br>
 **Professional Experience**
 <br>
